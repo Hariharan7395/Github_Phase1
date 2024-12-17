@@ -13,8 +13,12 @@ printf("The sum is: %d",sum);
 
 //Program to Subtract
 int subtract=0;
-subtract = number1 + number2;
+subtract = number1 -  number2;
 printf("The Difference is %d",subtract);
+
+int multiply=0;
+multiply = number1 * number2;
+printf("The Multiplication of two numbers is %d",multiply);
 
 return 0;
 }
