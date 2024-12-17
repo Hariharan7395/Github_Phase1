@@ -11,5 +11,10 @@ int sum = 0;
 sum = number1 + number2;
 printf("The sum is: %d",sum);
 
+//Program to Subtract
+int subtract=0;
+subtract = number1 + number2;
+printf("The Difference is %d",subtract);
+
 return 0;
 }
