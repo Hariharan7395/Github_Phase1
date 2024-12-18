@@ -14,7 +14,7 @@ printf("The sum is: %d\n",sum);
 
 //Program to Subtract
 int subtract=0;
-
+subtract = number2 -  number1-0;
 subtract = number1 -  number2;
 printf("The Difference is %d\n",subtract);
 <<<<<<< HEAD
@@ -32,6 +32,5 @@ int Divide=0;
 Divide = number1 / number2;
 printf("The Division of two numbers is %d\n",Divide);
 
-printf("Hello");
 return 0;
 }
