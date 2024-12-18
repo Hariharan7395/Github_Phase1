@@ -17,11 +17,6 @@ int subtract=0;
 subtract = number2 -  number1-0;
 subtract = number1 -  number2;
 printf("The Difference is %d\n",subtract);
-<<<<<<< HEAD
-//changed by Hariharan
-=======
->>>>>>> refs/remotes/origin/main
-
 //Program to multipy
 int multiply=0;
 multiply = number1 * number2 * number3;
