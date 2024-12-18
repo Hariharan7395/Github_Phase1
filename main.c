@@ -16,16 +16,16 @@ printf("The sum is: %d\n",sum); //to print addition
 int subtract=0;
 subtract = number2 -  number1-0;
 subtract = number1 -  number2;
-printf("The Difference is %d\n",subtract);//to print subract
+printf("The Difference is %d\n",subtract);
 //Program to multipy
 int multiply=0;
 multiply = number1 * number2 * number3;
-printf("The Multiplication of two numbers is %d\n",multiply);// to pritn multiply
+printf("The Multiplication of two numbers is %d\n",multiply);
 
 //Program to divide
 int Divide=0;
 Divide = number1 / number2;
-printf("The Division of two numbers is %d\n",Divide);//to print divide
+printf("The Division of two numbers is %d\n",Divide);
 
 return 0;
 }
