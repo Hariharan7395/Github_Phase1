@@ -20,7 +20,7 @@ printf("The Difference is %d\n",subtract);
 //Program to multipy
 int multiply=0;
 multiply = number1 * number2 * number3;
-printf("The Multiplication of two numbers is %d\n",multiply);
+printf("The Multiplication of two numbers is %d\n",multiply);// to pritn multiply
 
 //Program to divide
 int Divide=0;
