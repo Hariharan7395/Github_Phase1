@@ -13,7 +13,7 @@ printf("The sum is: %d",sum);
 
 //Program to Subtract
 int subtract=0;
-subtract = number1 -  number2;
+subtract = number2 -  number1;
 printf("The Difference is %d",subtract);
 
 //Program to multipy
