@@ -14,13 +14,10 @@ printf("The sum is: %d\n",sum);
 
 //Program to Subtract
 int subtract=0;
-<<<<<<< HEAD
+
 subtract = number1 -  number2;
 printf("The Difference is %d\n",subtract);
-=======
-subtract = number2 -  number1;
-printf("The Difference is %d",subtract);
->>>>>>> 496612affed7045b7bea2efc83c53061d5c22b3f
+//changed by Hariharan
 
 //Program to multipy
 int multiply=0;
