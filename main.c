@@ -10,7 +10,7 @@ int number3=30;//sample value3
 //Program to add
 int sum=0;
 sum = number1 + number2 + number3;
-printf("The sum is: %d\n",sum);
+printf("The sum is: %d\n",sum); //to print addition
 
 //Program to Subtract
 int subtract=0;
