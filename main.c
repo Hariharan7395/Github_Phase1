@@ -25,7 +25,7 @@ printf("The Multiplication of two numbers is %d\n",multiply);
 //Program to divide
 int Divide=0;
 Divide = number1 / number2;
-printf("The Division of two numbers is %d\n",Divide);
+printf("The Division of two numbers is %d\n",Divide);//to print divide
 
 return 0;
 }
